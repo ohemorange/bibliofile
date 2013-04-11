@@ -404,4 +404,5 @@ $(function() {
   new AppRouter;
   new AppView;
   Parse.history.start();
+  
 });
